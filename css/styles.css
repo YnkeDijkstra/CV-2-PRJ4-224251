@@ -40,6 +40,9 @@ body {
 	width: 1em;
 	margin-left: -1em;
 }
+.langblk{
+	background-color: #4C4C4C;	
+}
 
 .biography-details li::before {
 	color: #ACC7A7 ;
