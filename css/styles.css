@@ -31,6 +31,10 @@ body {
 	background-color: #E0E0E0;
 }
 
+.fontcol{
+	color: #6A6A6A;	
+}
+
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
